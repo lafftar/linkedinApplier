@@ -1,0 +1,8 @@
+logs
+.idea
+**__pycache__**
+build
+dist
+a.html
+*.spec
+userDataDir
